@@ -1,0 +1,2 @@
+Sentiment analysis is crucial for scrutinizing internet content and understanding public opinion through text data. While there are plenty of resources available for sentiment analysis in various Indian languages, resources for Gujarati are quite limited. My project aims to help fill that gap.
+Do check out my article on Medium to know more - https://medium.com/@hdjoshi2106/sentiment-analysis-of-gujarati-news-headlines-using-machine-learning-and-nlp-9af88a5d9598
